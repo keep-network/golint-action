@@ -1,5 +1,4 @@
 name: 'Go-linter'
-author: 'Jérôme Pogeant'
 description: 'Lint your code using golint'
 inputs:
   golint-path:

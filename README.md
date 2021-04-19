@@ -35,7 +35,7 @@ models/Protection.go:3:6: exported type Protection should have comment or be une
 ## Example Usage
 
 ```yaml
-uses: Jerome1337/golint-action@v1.0.2
+uses: keep-network/golint-action@v1.0.2
 with:
   golint-path: './src/...'
 ````
